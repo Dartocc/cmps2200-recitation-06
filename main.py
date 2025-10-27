@@ -49,9 +49,7 @@ def fib_bottom_up(n):
 
     return fibs[n]
 
-def test_fib_bottom_up():
-    n = 10
-    print(fib_bottom_up(n))  # should print 55
+
 
 
 
